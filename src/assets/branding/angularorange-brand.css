@@ -1,0 +1,29 @@
+div {
+  background: orange;
+  padding:50px;
+  font-size: 16px;
+  font-style: normal;
+  font-family: Arial;
+  color: red;
+}
+
+h4 {
+  color: darkred;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+h2 {
+  color: brown;
+}
+
+h3 {
+  color: brown;
+}
+
+.aoNgClass {
+  background: brown;
+  color: gold;
+}
